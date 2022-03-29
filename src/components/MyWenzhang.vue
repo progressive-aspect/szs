@@ -71,5 +71,7 @@ export default {
 </script>
 <style scoped>
 .title {
+    height: 60px;
+    line-height: 60px;
 }
 </style>
